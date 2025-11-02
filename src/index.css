@@ -17,6 +17,8 @@ html, body {
   -moz-osx-font-smoothing: grayscale;
   -webkit-overflow-scrolling: touch;
   background-color: #4A2E8C;
+  -webkit-tap-highlight-color: transparent;
+  touch-action: pan-y;
 }
 
 #root {
